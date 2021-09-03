@@ -16,4 +16,4 @@ currently being supported with security updates.
 
 if you find any Vulnerability or any kind of improvision on this page kindly comment below the comment section
 
-if there will be further updates will be released soon
+if there will be further updates released soon
